@@ -20,7 +20,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Webiste
+    - title: Website
       href: https://finbalanced.com
 
 # Upptime also supports notifications, assigning issues, and more
