@@ -4,7 +4,7 @@
     "url": "https://finbalanced.com",
     "icon": "https://favicons.githubusercontent.com/finbalanced.com",
     "slug": "finbalanced-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 328,
     "timeMonth": 326,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "Backend",
