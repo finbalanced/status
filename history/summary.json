@@ -61,19 +61,19 @@
     "url": "https://finbalanced-backend-stage.herokuapp.com/api/health/live",
     "icon": "https://favicons.githubusercontent.com/finbalanced-backend-stage.herokuapp.com",
     "slug": "backend-staging",
-    "status": "down",
-    "uptime": "99.04%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
-    "time": 374,
-    "timeDay": 374,
-    "timeWeek": 374,
-    "timeMonth": 374,
-    "timeYear": 374,
+    "status": "up",
+    "uptime": "55.19%",
+    "uptimeDay": "55.19%",
+    "uptimeWeek": "55.19%",
+    "uptimeMonth": "55.19%",
+    "uptimeYear": "55.19%",
+    "time": 349,
+    "timeDay": 349,
+    "timeWeek": 349,
+    "timeMonth": 349,
+    "timeYear": 349,
     "dailyMinutesDown": {
-      "2022-03-09": 0
+      "2022-03-09": 7
     }
   }
 ]
