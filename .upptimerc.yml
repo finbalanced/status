@@ -7,6 +7,10 @@ sites:
     url: https://finbalanced.com
   - name: Backend
     url: https://backend.finbalanced.com/api/health/live
+  - name: Finbalanced Website (Staging)
+    url: https://finbalanced-web-stage.herokuapp.com
+  - name: Backend  (Staging)
+    url: https://finbalanced-backend-stage.herokuapp.com/api/health/live
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
