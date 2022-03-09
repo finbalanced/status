@@ -23,5 +23,8 @@ status-website:
     - title: Website
       href: https://finbalanced.com
 
+assignees: # Users to assign downtime issues (optional)
+  - BerniWittmann
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
