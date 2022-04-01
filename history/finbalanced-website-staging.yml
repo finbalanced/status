@@ -1,7 +1,7 @@
 url: https://finbalanced-web-stage.herokuapp.com
-status: down
-code: 503
-responseTime: 325
-lastUpdated: 2022-03-31T23:17:32.888Z
+status: up
+code: 200
+responseTime: 12843
+lastUpdated: 2022-04-01T00:27:33.396Z
 startTime: Wed Mar 09 2022 10:39:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
