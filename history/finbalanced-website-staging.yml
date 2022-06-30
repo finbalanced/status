@@ -1,7 +1,7 @@
-url: https://finbalanced-web-stage.herokuapp.com
+url: https://finbalanced-web-stage.herokuapp.com?check=upptime
 status: up
 code: 200
-responseTime: 563
-lastUpdated: 2022-06-29T23:16:56.783Z
+responseTime: 731
+lastUpdated: 2022-06-30T06:21:47.814Z
 startTime: Wed Mar 09 2022 10:39:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
