@@ -30,19 +30,20 @@
     "url": "https://backend.finbalanced.com/api/health/live",
     "icon": "https://favicons.githubusercontent.com/backend.finbalanced.com",
     "slug": "backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "94.38%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.97%",
     "time": 384,
-    "timeDay": 364,
-    "timeWeek": 409,
-    "timeMonth": 414,
+    "timeDay": 349,
+    "timeWeek": 400,
+    "timeMonth": 411,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2022-09-08": 0
+      "2022-09-09": 77,
+      "2022-09-08": 4
     }
   },
   {
