@@ -1,7 +1,7 @@
 url: https://finbalanced-backend-stage.herokuapp.com/api/health/live
 status: up
 code: 200
-responseTime: 460
-lastUpdated: 2022-10-10T23:24:45.245Z
+responseTime: 333
+lastUpdated: 2022-10-11T23:25:54.584Z
 startTime: Wed Mar 09 2022 10:39:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
