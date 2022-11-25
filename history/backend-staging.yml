@@ -1,7 +1,7 @@
 url: https://finbalanced-backend-stage.herokuapp.com/api/health/live
 status: down
 code: 503
-responseTime: 630
-lastUpdated: 2022-11-24T23:17:04.207Z
+responseTime: 309
+lastUpdated: 2022-11-25T23:15:41.854Z
 startTime: Wed Mar 09 2022 10:39:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
