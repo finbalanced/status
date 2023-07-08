@@ -3,7 +3,7 @@ owner: finbalanced # Your GitHub organization or username, where this repository
 repo: status # The name of this repository
 
 sites:
-  - name: Finbalanced Website
+  - name: finbalanced Website
     url: https://finbalanced.com
     headers:
     - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
@@ -18,9 +18,9 @@ status-website:
   cname: status.finbalanced.com
   # baseUrl: /your-repo-name
   logoUrl: https://i.imgur.com/RmzChz8.png
-  name: Finbalanced
-  introTitle: "**Finbalanced** is the platform for financial well-being"
-  introMessage: This page monitors and informs the status of Finbalanced
+  name: finbalanced
+  introTitle: "**finbalanced** is the platform for financial well-being"
+  introMessage: This page monitors and informs the status of finbalanced
   navbar:
     - title: Status
       href: /
