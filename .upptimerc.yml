@@ -21,6 +21,7 @@ status-website:
   name: finbalanced
   introTitle: "**finbalanced** is the platform for financial well-being"
   introMessage: This page monitors and informs the status of finbalanced
+  theme: light
   navbar:
     - title: Status
       href: /
