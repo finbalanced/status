@@ -27,7 +27,6 @@ status-website:
   name: finbalanced
   introTitle: "**finbalanced** is the platform for financial well-being"
   introMessage: This page monitors and informs the status of finbalanced
-  theme: light
   themeUrl: https://raw.githubusercontent.com/finbalanced/status/master/assets/finbalanced-theme.css
   navbar:
     - title: Status
