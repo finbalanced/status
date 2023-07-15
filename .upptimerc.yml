@@ -11,6 +11,12 @@ sites:
     url: https://backend.finbalanced.com/api/health/live
     headers:
     - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
+  - name: Content-Management-System
+    url: https://cms.finbalanced.com/_health
+    method: HEAD
+    headers:
+    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
