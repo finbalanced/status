@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 377,
-    "timeDay": 339,
-    "timeWeek": 388,
+    "timeDay": 393,
+    "timeWeek": 396,
     "timeMonth": 441,
     "timeYear": 378,
     "dailyMinutesDown": {
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 400,
-    "timeDay": 307,
-    "timeWeek": 381,
-    "timeMonth": 382,
+    "timeDay": 361,
+    "timeWeek": 385,
+    "timeMonth": 383,
     "timeYear": 400,
     "dailyMinutesDown": {
       "2023-04-12": 65,
@@ -42,6 +42,62 @@
       "2022-09-09": 77,
       "2022-09-08": 4
     }
+  },
+  {
+    "name": "Backend Integrations",
+    "url": "https://backend.finbalanced.com/api/health/integrations",
+    "icon": "https://icons.duckduckgo.com/ip3/backend.finbalanced.com.ico",
+    "slug": "backend-integrations",
+    "status": "down",
+    "uptime": "7.33%",
+    "uptimeDay": "7.33%",
+    "uptimeWeek": "7.33%",
+    "uptimeMonth": "7.33%",
+    "uptimeYear": "7.33%",
+    "time": 106,
+    "timeDay": 106,
+    "timeWeek": 106,
+    "timeMonth": 106,
+    "timeYear": 106,
+    "dailyMinutesDown": {
+      "2023-08-06": 0
+    }
+  },
+  {
+    "name": "Stage-Backend",
+    "url": "https://stage.backend.finbalanced.com/api/health/live",
+    "icon": "https://icons.duckduckgo.com/ip3/stage.backend.finbalanced.com.ico",
+    "slug": "stage-backend",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 385,
+    "timeDay": 385,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Stage-Backend Integrations",
+    "url": "https://stage.backend.finbalanced.com/api/health/integrations",
+    "icon": "https://icons.duckduckgo.com/ip3/stage.backend.finbalanced.com.ico",
+    "slug": "stage-backend-integrations",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 194,
+    "timeDay": 194,
+    "timeWeek": 194,
+    "timeMonth": 194,
+    "timeYear": 194,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Content-Management-System",
@@ -54,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 232,
-    "timeWeek": 309,
-    "timeMonth": 335,
-    "timeYear": 335,
+    "time": 337,
+    "timeDay": 313,
+    "timeWeek": 320,
+    "timeMonth": 337,
+    "timeYear": 337,
     "dailyMinutesDown": {}
   }
 ]
