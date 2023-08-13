@@ -24,6 +24,11 @@ sites:
     method: HEAD
     headers:
     - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
+  - name: Typesense Search Service
+    url: https://p4glf3q790ehnd6tp-1.a1.typesense.net/health
+    method: GET
+    headers:
+    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
 
 
 status-website:
