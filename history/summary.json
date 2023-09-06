@@ -4,19 +4,19 @@
     "url": "https://finbalanced.com",
     "icon": "https://icons.duckduckgo.com/ip3/finbalanced.com.ico",
     "slug": "finbalanced-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 0,
-    "timeWeek": 493,
-    "timeMonth": 471,
-    "timeYear": 387,
+    "time": 384,
+    "timeDay": 337,
+    "timeWeek": 473,
+    "timeMonth": 467,
+    "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-09-06": 0
+      "2023-09-06": 9
     }
   },
   {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.97%",
     "time": 404,
     "timeDay": 0,
-    "timeWeek": 427,
+    "timeWeek": 431,
     "timeMonth": 395,
     "timeYear": 399,
     "dailyMinutesDown": {
@@ -56,7 +56,7 @@
     "uptimeYear": "100.00%",
     "time": 389,
     "timeDay": 0,
-    "timeWeek": 412,
+    "timeWeek": 417,
     "timeMonth": 390,
     "timeYear": 389,
     "dailyMinutesDown": {}
@@ -74,7 +74,7 @@
     "uptimeYear": "99.37%",
     "time": 227,
     "timeDay": 202,
-    "timeWeek": 240,
+    "timeWeek": 236,
     "timeMonth": 232,
     "timeYear": 227,
     "dailyMinutesDown": {
@@ -96,7 +96,7 @@
     "uptimeYear": "99.66%",
     "time": 349,
     "timeDay": 0,
-    "timeWeek": 385,
+    "timeWeek": 386,
     "timeMonth": 362,
     "timeYear": 349,
     "dailyMinutesDown": {
