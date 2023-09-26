@@ -11,6 +11,10 @@ sites:
     url: https://backend.finbalanced.com/api/health/live
     headers:
     - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
+  - name: Backend Integrations
+    url: https://backend.finbalanced.com/api/health/integrations
+    headers:
+    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
   - name: Stage-Backend
     url: https://stage.backend.finbalanced.com/api/health/live
     headers:
