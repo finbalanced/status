@@ -1,7 +1,7 @@
 url: https://stage.backend.finbalanced.com/api/health/integrations
 status: up
 code: 200
-responseTime: 274
-lastUpdated: 2023-09-29T23:12:37.456Z
+responseTime: 240
+lastUpdated: 2023-09-30T23:11:37.773Z
 startTime: 2023-08-06T14:05:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
