@@ -1,7 +1,7 @@
 url: https://backend.finbalanced.com/api/health/integrations
-status: down
-code: 503
-responseTime: 271
-lastUpdated: 2024-03-18T18:12:03.947Z
+status: up
+code: 200
+responseTime: 329
+lastUpdated: 2024-03-18T18:26:59.335Z
 startTime: 2023-09-26T10:21:30.133Z
 generator: Upptime <https://github.com/upptime/upptime>
