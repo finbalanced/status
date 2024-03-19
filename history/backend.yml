@@ -1,7 +1,7 @@
 url: https://backend.finbalanced.com/api/health/live
-status: up
-code: 200
-responseTime: 363
-lastUpdated: 2024-03-18T23:13:43.047Z
+status: down
+code: 503
+responseTime: 550
+lastUpdated: 2024-03-19T20:14:10.310Z
 startTime: 2022-01-31T15:22:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
