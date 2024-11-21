@@ -1,7 +1,7 @@
 url: https://cms.finbalanced.com/_health
-status: up
-code: 204
-responseTime: 243
-lastUpdated: 2024-11-20T23:17:00.003Z
+status: down
+code: 503
+responseTime: 357
+lastUpdated: 2024-11-21T09:15:11.811Z
 startTime: 2023-07-15T16:16:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
