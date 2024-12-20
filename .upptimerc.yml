@@ -3,36 +3,36 @@ owner: finbalanced # Your GitHub organization or username, where this repository
 repo: status # The name of this repository
 
 sites:
-  - name: finbalanced Website
-    url: https://finbalanced.com
-    headers:
-    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
-  - name: Backend
-    url: https://backend.finbalanced.com/api/health/live
-    headers:
-    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
-  - name: Backend Integrations
-    url: https://backend.finbalanced.com/api/health/integrations
-    headers:
-    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
-  - name: Stage-Backend
-    url: https://stage.backend.finbalanced.com/api/health/live
-    headers:
-    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
-  - name: Stage-Backend Integrations
-    url: https://stage.backend.finbalanced.com/api/health/integrations
-    headers:
-    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
-  - name: Content-Management-System
-    url: https://cms.finbalanced.com/_health
-    method: HEAD
-    headers:
-    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
-  - name: Typesense Search Service
-    url: https://p4glf3q790ehnd6tp-1.a1.typesense.net/health
-    method: GET
-    headers:
-    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
+#  - name: finbalanced Website
+#    url: https://finbalanced.com
+#    headers:
+#    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
+#  - name: Backend
+#    url: https://backend.finbalanced.com/api/health/live
+#    headers:
+#    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
+#  - name: Backend Integrations
+#    url: https://backend.finbalanced.com/api/health/integrations
+#    headers:
+#    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
+#  - name: Stage-Backend
+#    url: https://stage.backend.finbalanced.com/api/health/live
+#    headers:
+#    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
+#  - name: Stage-Backend Integrations
+#    url: https://stage.backend.finbalanced.com/api/health/integrations
+#    headers:
+#    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
+#  - name: Content-Management-System
+#    url: https://cms.finbalanced.com/_health
+#    method: HEAD
+#    headers:
+#    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
+#  - name: Typesense Search Service
+#    url: https://p4glf3q790ehnd6tp-1.a1.typesense.net/health
+#    method: GET
+#    headers:
+#    - "User-Agent: $UPTIME_REQUEST_USER_AGENT"
 
 
 status-website:
